@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="entidades.ValidarNombreTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-10-14T21:21:52" hostname="DESKTOP-7FJCMF7" time="0.017">
+  <properties/>
+  <testcase name="testLanzaExcepcionSiNombreEsNulo()" classname="entidades.ValidarNombreTest" time="0.011"/>
+  <testcase name="testLanzaExcepcionSiNombreVacio()" classname="entidades.ValidarNombreTest" time="0.0"/>
+  <testcase name="testNoLanzaExcepcionConNombreValido2()" classname="entidades.ValidarNombreTest" time="0.002"/>
+  <testcase name="testNoLanzaExcepcionConNombreValido()" classname="entidades.ValidarNombreTest" time="0.001"/>
+  <system-out><![CDATA[Nombre válido: Juan
+Nombre válido: Franco
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
